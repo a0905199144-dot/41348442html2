@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans TC", sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #2e2e2e;
+  padding: 16px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav a {
+  color: #ddd;
+  margin-left: 40px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+section {
+  padding: 60px 40px;
+  background-color: #fff;
+  margin: 30px;
+  border-radius: 6px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #2e2e2e;
+  color: #aaa;
+}
+
+section {
+  text-align: center;
+}
+
+.work-img {
+  width: 260px;
+  height: auto;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
